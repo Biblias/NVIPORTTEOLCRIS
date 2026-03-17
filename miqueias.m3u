@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Miquéias 1
-https://audio-cdn.bibliaonline.com.br/7/Ricardo/nvi/Mic/001/nvi-mic-1.mp3
-#EXTINF:-1,Miquéias 2
-https://audio-cdn.bibliaonline.com.br/7/Ricardo/nvi/Mic/002/nvi-mic-2.mp3
-#EXTINF:-1,Miquéias 3
-https://audio-cdn.bibliaonline.com.br/7/Ricardo/nvi/Mic/003/nvi-mic-3.mp3
-#EXTINF:-1,Miquéias 4
-https://audio-cdn.bibliaonline.com.br/7/Ricardo/nvi/Mic/004/nvi-mic-4.mp3
-#EXTINF:-1,Miquéias 5
-https://audio-cdn.bibliaonline.com.br/7/Ricardo/nvi/Mic/005/nvi-mic-5.mp3
-#EXTINF:-1,Miquéias 6
-https://audio-cdn.bibliaonline.com.br/7/Ricardo/nvi/Mic/006/nvi-mic-6.mp3
-#EXTINF:-1,Miquéias 7
-https://audio-cdn.bibliaonline.com.br/7/Ricardo/nvi/Mic/007/nvi-mic-7.mp3
+#EXTINF:-1,Miqueias 1
+https://studio.biblebox.com/audio/play/1/nvi/Mic/1/_/azure/en-US-OnyxTurboMultilingualNeural/audio.mp3
+#EXTINF:-1,Miqueias 2
+https://studio.biblebox.com/audio/play/1/nvi/Mic/2/_/azure/en-US-OnyxTurboMultilingualNeural/audio.mp3
+#EXTINF:-1,Miqueias 3
+https://studio.biblebox.com/audio/play/1/nvi/Mic/3/_/azure/en-US-OnyxTurboMultilingualNeural/audio.mp3
+#EXTINF:-1,Miqueias 4
+https://studio.biblebox.com/audio/play/1/nvi/Mic/4/_/azure/en-US-OnyxTurboMultilingualNeural/audio.mp3
+#EXTINF:-1,Miqueias 5
+https://studio.biblebox.com/audio/play/1/nvi/Mic/5/_/azure/en-US-OnyxTurboMultilingualNeural/audio.mp3
+#EXTINF:-1,Miqueias 6
+https://studio.biblebox.com/audio/play/1/nvi/Mic/6/_/azure/en-US-OnyxTurboMultilingualNeural/audio.mp3
+#EXTINF:-1,Miqueias 7
+https://studio.biblebox.com/audio/play/1/nvi/Mic/7/_/azure/en-US-OnyxTurboMultilingualNeural/audio.mp3
